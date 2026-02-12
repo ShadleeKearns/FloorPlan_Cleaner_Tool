@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Optional — needed only for --overlay with full SVG rendering
+# cairosvg>=2.7.0
